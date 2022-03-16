@@ -390,9 +390,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 343AB41E1CC99F4F00962943 /* Build configuration list for PBXNativeTarget "AmplitudeFramework" */;
 			buildPhases = (
+				343AB4141CC99F4F00962943 /* Headers */,
 				343AB4121CC99F4F00962943 /* Sources */,
 				343AB4131CC99F4F00962943 /* Frameworks */,
-				343AB4141CC99F4F00962943 /* Headers */,
 				343AB4151CC99F4F00962943 /* Resources */,
 			);
 			buildRules = (
